@@ -1,0 +1,32 @@
+.Home{
+    background-color: aqua!important;
+    margin: 5px;
+    padding: 5px;
+    width: 800px;
+    height: 500px;
+    color: cornsilk;
+}
+.todolist{
+    background-color: brown!important;
+    margin: 5px;
+    padding: 5px;
+    height: 400px;
+    width: 300px;
+}
+.addtodo{
+    background-color: rgb(12, 247, 24)!important;
+    margin: 5px;
+    padding: 5px;
+    height: 400px;
+    width: 300px;
+}
+.todoitem{
+    background-color: rgb(238, 148, 30)!important;
+    padding: 3px;
+    margin: 4px;
+}
+.but{
+    width: 100PX;
+    margin: 10px;
+        margin-left: 95px;
+}
